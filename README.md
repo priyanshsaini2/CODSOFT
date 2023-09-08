@@ -1,2 +1,2 @@
 # CODSOFT
-FOR DATAT SCIENCE INTERNSHIP 
+All Internship Projects Of CODSOFT
